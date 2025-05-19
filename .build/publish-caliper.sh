@@ -19,6 +19,7 @@ set -e
 # distribute root README file before publishing
 cp ./README.md ./packages/caliper-cli/README.md
 cp ./README.md ./packages/caliper-core/README.md
+cp ./README.md ./packages/caliper-ethereum/README.md
 cp ./README.md ./packages/caliper-fabric/README.md
 
 cd ./packages/caliper-publish/

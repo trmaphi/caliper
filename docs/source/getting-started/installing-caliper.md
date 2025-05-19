@@ -99,6 +99,7 @@ The binding step technically consists of an extra `npm install` call with the ap
 The following SUT name and SDK version combinations are supported:
 
 - **fabric**: `2.2`, `fabric-gateway`
+- **ethereum**: `1.2.1`, `1.3`
 
 !!! note
 

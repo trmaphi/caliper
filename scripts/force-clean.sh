@@ -18,6 +18,7 @@ rm -rf ./node_modules
 
 rm -rf ./packages/caliper-cli/node_modules
 rm -rf ./packages/caliper-core/node_modules
+rm -rf ./packages/caliper-ethereum/node_modules
 rm -rf ./packages/caliper-fabric/node_modules
 rm -rf ./packages/caliper-publish/node_modules
 rm -rf ./packages/caliper-tests-integration/node_modules
